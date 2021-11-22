@@ -9,5 +9,5 @@ pip install git+https://github.com/takana-v/nb-clean.git@455ecc6e145196c97a54f7a
 ```
 以下のコマンドでメタデータを削除する。
 ```bash
-nb-clean clean VOICEVOX_on_Colab
+nb-clean clean VOICEVOX_on_Colab.ipynb
 ```
